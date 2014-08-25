@@ -1,8 +1,16 @@
 Data Challenge
 ==============
 
-This repository contains a dataset labeled **the-data.csv**.
+1. The yearly batting averages for Derek Jeter and David Justice are given by the table:
 
-The challenge: Using your tool(s) of choice, produce an image that best describes the interaction between the first variable ("V1") and the remaining six variables ("V2" through "V7").
+| Year | Derek Jeter | David Justice |
+|------|-------------|---------------|
+| 1995 | .250        | .253          |
+| 1996 | .314        | .321          |
+| 1997 | .288        | .293          |
 
-*Hint:* You should expect to be absolutely certain about your findings.
+Which player had the highest cummulative batting average from 1995 through 1997?
+
+2. This repository contains a dataset labeled **the-data.csv** with seven simulated variables, **V1** through **V7**.
+
+Briefly decribe in either words or images how the first variable (**V1**) interacts with the remaining six variables (**V2** through **V7**).
