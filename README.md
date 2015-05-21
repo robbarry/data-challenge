@@ -17,7 +17,7 @@ The yearly batting averages for Derek Jeter and David Justice are given by this 
 | 1996 | .314        | .321          |
 | 1997 | .288        | .293          |
 
-Which player had the highest cummulative batting average from 1995 through 1997?
+Which player had the highest cumulative batting average from 1995 through 1997?
 
 ## Question 3
 
