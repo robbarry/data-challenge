@@ -1,7 +1,7 @@
 Data Challenge
 ==============
 
-The questions below are designed to test your proficiency with data tasks. They are intended to increase in difficult as you progress.
+The questions below are designed to test your proficiency with data tasks. They are intended to get progressively more difficult.
 
 ## Question 1
 
@@ -15,7 +15,7 @@ The yearly batting averages for Derek Jeter and David Justice are given by this 
 |------|-------------|---------------|
 | 1995 | .250        | .253          |
 | 1996 | .314        | .321          |
-| 1997 | .288        | .293          |
+| 1997 | .291        | .329          |
 
 Which player had the highest cumulative batting average from 1995 through 1997?
 
