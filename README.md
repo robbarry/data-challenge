@@ -29,7 +29,7 @@ The U.S. Securities and Exchange Commission maintains an online filing system ca
 
 ## Question 5
 
-Download the file called [manyfiles.zip](data/manyfiles.zip?raw=true) from this repository and extract it on your local machine. Inside are a sequence of files, each of which contains a number. Iterate through all these files and add up the numbers they contain. What is the total?
+Download the file called [manyfiles.zip](data/manyfiles.zip?raw=true) from this repository and extract it on your local machine. Inside are a large number of files, each of which contains a number. Tally up all the numbers: What is the total?
 
 ## Question 6 (Extra Credit!)
 
