@@ -21,13 +21,17 @@ Which player had the highest cumulative batting average from 1995 through 1997?
 
 ## Question 3
 
-The U.S. Securities and Exchange Commission maintains an online filing system called EDGAR. Data about those filings can be accessed via the agency's FTP site. How many filings did the agency receive in the second quarter of 2010?
+According to the American Community Survey's 5-year estimates for 2013, which county in the U.S. had the highest percentage of homes worth $1,000,000 or more?
 
 ## Question 4
 
-Download the file called [question4.zip](data/question4.zip?raw=true) from this repository and extract it on your local machine. Inside are a sequence of files, each of which contains a number. Iterate through all these files and add up the numbers they contain. What is the total?
+The U.S. Securities and Exchange Commission maintains an online filing system called EDGAR. Data about those filings can be accessed via the agency's FTP site. How many filings did the agency receive in the second quarter of 2010?
 
-## Question 5 (Extra Credit!)
+## Question 5
+
+Download the file called [manyfiles.zip](data/manyfiles.zip?raw=true) from this repository and extract it on your local machine. Inside are a sequence of files, each of which contains a number. Iterate through all these files and add up the numbers they contain. What is the total?
+
+## Question 6 (Extra Credit!)
 
 This repository contains a dataset called [bonus.csv](data/bonus.csv?raw=true) with seven simulated variables, **V1** through **V7**.
 
